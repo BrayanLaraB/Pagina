@@ -1,0 +1,18 @@
+
+li{
+    color: green;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#title{
+    color: blueviolet;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.brillo{
+    color : #fff; 
+    font-size: #474747;
+    text-shadow: #fff 0 0 10px; 
+}

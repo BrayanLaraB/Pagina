@@ -1,0 +1,39 @@
+.container{
+    background-color: #007c91;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: #fff;
+}
+
+.title{
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.subtitle{
+    font-size: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.input{
+    text-align: center;
+    width: 50%;
+    padding: 10px;
+    border-width: 2px;
+    border-color: darkgray;
+    border-radius: 7px;
+    border-style: solid;
+}
+.button{
+    width: 10%;
+    padding: 10px;
+    margin: 15px;
+    background-color: aqua;
+    color:black;
+    cursor: pointer;
+}
+
